@@ -15,7 +15,7 @@ const appRoutes: Routes = [
     component: LoginComponent
   },
   {
-    path:'destination',
+    path:'enter-info',
     component: EnterInfoComponent
   }
 ];
